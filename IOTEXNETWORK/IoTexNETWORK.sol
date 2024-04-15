@@ -498,3 +498,5 @@ contract IoTeXNetwork is StandardToken, Pausable {
       return super.decreaseApproval(_spender, _subtractedValue);
     }
 }
+
+//bscscan testnet address:- https://testnet.bscscan.com/address/0xc6945f7a0B1A522FFFE123507FD54d4aA29d2758#code
